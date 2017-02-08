@@ -6,3 +6,9 @@ Podfile.lock
 xcuserdata/
 *.xcworkspace/
 GoogleService-Info.plist
+android/
+android-start/
+ios/
+ios-optional/
+ios-starter/
+web/
